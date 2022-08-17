@@ -12,10 +12,10 @@
 <P>  The time on the server is ${serverTime}. </P>
 <p> gitTest</p>
 <p> github test</p>
-<<<<<<< HEAD
+
 <p>spring update </p>
-=======
+
 <p> github update</p>
->>>>>>> refs/remotes/choose_remote_name/master
+
 </body>
 </html>
